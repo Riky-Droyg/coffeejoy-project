@@ -3,7 +3,7 @@
 A responsive landing page for a specialty coffee brand. Built as a team project with a focus on clean layout, smooth section navigation, and a polished UI for a modern marketing website.
 
 ## Live Demo
-https://riky-droyg.github.io/team-project-04/
+https://riky-droyg.github.io/coffeejoy-project
 
 ## Features
 - Responsive layout (mobile / tablet / desktop)
