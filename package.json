@@ -1,11 +1,11 @@
 {
-  "name": "team-project-04",
+  "name": "coffeejoy-project",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-project-04/",
+    "build": "vite build --base=/coffeejoy-project/",
     "preview": "vite preview"
   },
   "devDependencies": {
