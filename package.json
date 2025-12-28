@@ -14,7 +14,7 @@
     "postcss-sort-media-queries": "^5.2.0",
     "vite": "^7.1.3"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Oleksandr Blokha <riky.droyg@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "vite-plugin-full-reload": "^1.2.0",
